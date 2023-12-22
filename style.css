@@ -1,0 +1,46 @@
+body{
+     background-color: rgb(191, 192, 192);
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.div{
+
+
+      display: flex;
+      justify-content: center;
+    
+       margin-top: 5rem;
+       
+}
+.div2{
+     margin-top: 100px;
+     text-align: center;
+}
+.div2 h1{
+     margin: 10px; font-family: Arial, Helvetica, sans-serif;
+}
+.div2 a{
+     text-decoration: none;
+     font-size: 20px;
+     margin: 10px; font-family: Arial, Helvetica, sans-serif;
+}
+.div1{
+
+ 
+      display: flex;
+      flex-direction: column;
+     justify-content: center;
+   width: 50rem;
+
+}
+.h1{
+  margin-bottom:20px ;
+  font-size: xx-large;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+.p{
+     font-size: xx-large;
+}
